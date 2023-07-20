@@ -1,0 +1,20 @@
+{
+    "contact": "r/HongKong",
+    "templates": [
+      {
+        "name": "Overlay",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1131571254508408832/1131604113382178866/70273e97-5ae9-4943-9b28-0bcceb610ca2_copy.png"
+        ],
+        "x": 89,
+        "y": 64
+      }
+    ],
+    "whitelist": [
+      {
+        "name": "P3ACE",
+        "url": " https://charity.pxls.space/p3ace"
+      }
+    ],
+    "blacklist": []
+  }
