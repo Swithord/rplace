@@ -1,20 +1,14 @@
 {
-    "contact": "r/HongKong",
+    "faction": "r/HongKong",
+    "contact": "https://discord.com/invite/qCWYxnKnjj",
     "templates": [
       {
-        "name": "Overlay",
+        "name": "White bauhinia",
         "sources": [
           "https://cdn.discordapp.com/attachments/1131571254508408832/1131604113382178866/70273e97-5ae9-4943-9b28-0bcceb610ca2_copy.png"
         ],
-        "x": 157,
-        "y": 113
+        "x": 589,
+        "y": 564
       }
-    ],
-    "whitelist": [
-      {
-        "name": "P3ACE",
-        "url": " https://charity.pxls.space/p3ace"
-      }
-    ],
-    "blacklist": []
+    ]
   }
